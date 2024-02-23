@@ -1,19 +1,43 @@
+<style>
+
+</style>
+
 ### Olá, eu sou o  Mateus Mayan 👋🏻 
-Um desenvolvedor que está construindo sua versão do mundo digital de passo em passo. 💻
+Um desenvolvedor que está construindo sua versão do mundo digital de passo em passo. 
 
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-mayan/)
+Sou profissional de Educação Física formado e estudo programação desde 2023.
+
+Em 2024 resolvi iniciar uma 2º gradução em Sistemas Para Internet na Unicesumar.
+
+[![LinkedIn](	https://img.shields.io/badge/Mateus_Mayan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-mayan/)
+[![Whatsapp](https://img.shields.io/badge/Mateus_Mayan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://w.app/mateusmayan)
 
 
-####  ⚒️ Tecnologias 
+####  ⚒️ Tecnologias ⚒️ 
 
-<div style="display: inline-block"><br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<div ><br>
+
+<img width='40px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img width='40px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width='40px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width='40px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width='40px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width='40px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width='40px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
+
+
+
 </div>
 
+<br>
 
+#### Minhas Atividade 📈
+<div>
 
+<img height='180px' align="center" alt="Mateus Mayan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mateusmayan&show_icons=true&theme=dark&title_color=2ff05d&text_color=2ff05d&border_color=2ff05d">
+  
+<img  height="180px" align="center" alt="Mateus Mayan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmayan&theme=dark&layout=compact&title_color=2ff05d&text_color=2ff05d&border_color=2ff05d">
+</div>
