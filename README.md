@@ -1,7 +1,3 @@
-<style>
-
-</style>
-
 ### Olá, eu sou o  Mateus Mayan 👋🏻 
 Um desenvolvedor que está construindo sua versão do mundo digital de passo em passo. 
 
