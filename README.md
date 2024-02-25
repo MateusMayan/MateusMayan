@@ -30,7 +30,7 @@ Em 2024 resolvi iniciar uma 2º gradução em Sistemas Para Internet na Unicesum
 
 <br>
 
-#### Minhas Atividade 📈
+#### Minhas Atividades 📈
 <div>
 
 <img height='180px' align="center" alt="Mateus Mayan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mateusmayan&show_icons=true&theme=dark&title_color=2ff05d&text_color=2ff05d&border_color=2ff05d">
